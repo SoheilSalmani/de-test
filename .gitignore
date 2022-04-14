@@ -1,0 +1,5 @@
+# Python cache folders
+__pycache__/
+
+# Data folder
+data/
